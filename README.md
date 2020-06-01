@@ -1,4 +1,6 @@
-# Angular 9 Tutorial - 2 - Editing your first angular project
+# Angular 9 Tutorial - 2 - How to start writing code
+
+video link - https://youtu.be/qgOpJrQKxe8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
